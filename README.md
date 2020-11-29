@@ -13,7 +13,7 @@ Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca `
 ## Trabalhos para Submissão - Códigos & Instepretação:
 * [Primeira Unidade - Calculadora]()
 * [Segunda Unidade - Criptografia em LU]()
-* [Terceira Unidade - Equações Diferenciais em Determinadas áreas]()
+* [Terceira Unidade - Equações Diferenciais com Aplicações]()
 
 ## Informações Gerais:
 O semestre na UFRN é divido em 3 partes. Na primeira parte é apresentado uma introdução à linguagem Python, a biblioteca ```math```, série de Taylor e métodos para determinar as raízes de uma determinada função. Na segunda parte, por sua vez, temos uma apresentação de sistemas lineares, MMQ & Interpolação - nessa parte é bastante utilizada a biblioteca ```numpy```. Na terçeira parte, é visto a parte referente às equações diferenciais.
@@ -21,8 +21,9 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 
 ## Observações:
 Para utilizar esse repositório, é recomendável utilizar:
-* Python version >= 3.6
-* Numpy version >= 1.19.0
+* Python version > 3.6
+* Numpy version > 1.19.1
+* Matplotlib version >= 3.3.3
 
 Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/), utilize os comandos abaixo:
 
