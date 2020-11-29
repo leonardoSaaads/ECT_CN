@@ -21,7 +21,7 @@ Para utilizar esse repositório, é recomendável utilizar:
 * Numpy version > 1.19.1
 * Matplotlib version >= 3.3.3
 
-Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/), utilize os comandos abaixo:
+Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/):
 
 **Para Linux ou macOS:**
 ```
