@@ -1,5 +1,5 @@
 # COMPUTAÇÃO NÚMERICA (UFRN) - MÉTODOS NUMÉRICOS EM PYTHON 
-Esse repositório será dedicado à matéria de ***Computação Numérica da UFRN***. Todos os métodos foram feitos em **Python** e com base no semestre de 2020.2
+Esse repositório será dedicado à matéria de ***Computação Numérica da UFRN***. Todos os métodos foram feitos em **Python** e com base no semestre de 2020.2 da Escola de Ciências e Tecnologia.
 
 ## Métodos Numéricos - Códigos:
 * [Aprendendo Python & série de Taylor]()
@@ -53,3 +53,4 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 ## Segunda Parte
 
 ## Terceira Parte
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/euler_method.png" width="428" height="319">
