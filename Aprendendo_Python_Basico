@@ -1,0 +1,93 @@
+# APRENDENDO PYTHON - BÁSICO
+
+
+# Declarando variáveis
+
+a = True  # Tipo Booleano
+b = False  # Tipo Booleano
+c = 'string'  # Tipo String
+d = "Também sou do tipo string"  # Tipo String
+e = 1203  # Tipo Int
+f = 1203.126312  # Tipo Float
+g = ['lista', a, 123, 1231.234, False]  # Tipo lista
+h = {'Chave': 'Fechadura', 'Chave1': 123}  # Tipo chave
+i = (123, 'teste')  # Tipo Conjunto
+
+
+# Comandos básicos:
+
+'\n'  # Esse comando serve como quebra de linha (semelhante a apertar enter)
+print("Olá Mundo! Esse comando será printado na sua tela. \n")  # Printa uma string ou outras variáveis
+variavel_adquirida = input("Coloque alguma variável aqui: \n")  # Recebe do usuário uma variável
+variavel_adquirida_inteiro = int(input("Coloque uma variável inteira: \n"))
+# Recebe do usuário somente uma variável int
+variavel_adquirida_float = float(input("Coloque uma variável do tipo float: \n"))
+# Recebe do usuário somente uma variável float
+variavel_adquirida_booleano = bool(input("Coloque uma variável do tipo booleano: \n"))
+# Recebe do usuário somente uma variável booleana.
+
+
+# Importando bibliotecas
+
+# Utilize o comando import e o nome da biblioteca.
+# Exemplo:
+
+import math
+
+# Para utilizar uma função da biblioteca importada ou uma variável:
+
+seno_2 = math.sin(2)  # Função seno
+cos_3 = math.cos(3)  # Função cosseno
+euler = math.e  # Numero euler
+
+# Para importar uma biblioteca e utilizar ela com outro nome:
+
+import random as aleatorio  # Definido o nome 'aleatório' para a biblioteca 'random'
+
+numero_aleatorio = aleatorio.random()
+
+
+# Relações de condição (if, else, elif):
+
+# Exemplo 1:
+
+tempo = 'ensolarado'
+if tempo == 'chovendo':
+    print('Não sai de casa')
+else:
+    print('Pode Sair de Casa')
+
+# Exemplo 2:
+
+ligado = True
+movendo = False
+carro = [ligado, movendo]
+
+# OBS: carro[0] está acessando a variável ligado
+# OBS: carro[1] está acessando a variável movendo
+
+if carro[0] is True and carro[1] is True:
+    print('O carro está ligado e se movendo')
+elif carro[0] is True and carro[1] is False:
+    print('O carro está ligado e parado')
+else:
+    print('O carro está desligado')
+
+
+# Laços (for & while)
+
+# exemplo 1:
+
+somatorio = 0
+for numero in range(10):  # laço for que vai de 0 até 9
+    somatorio = somatorio + numero
+print(somatorio)
+
+# mesmo exemplo com while
+
+somatorio = 0
+contador = 0
+while contador <= 9:
+    somatorio = somatorio + contador
+    contador = contador + 1
+print(somatorio)
