@@ -21,8 +21,8 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 
 ## Observações:
 Para utilizar esse repositório, é recomendável utilizar:
-** Python version >= 3.6
-** Numpy version >= 1.19.0
+* Python version >= 3.6
+* Numpy version >= 1.19.0
 
 Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/), utilize os comandos abaixo:
 ***Para Linux ou macOS:***
