@@ -41,6 +41,8 @@ python -m pip install -U numpy
 ## Contribuidores:
 * Leonardo Saads Pinto
 
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/69808278/100530830-dd911500-31d5-11eb-9e87-8dcd51f92082.png" width="228" height="228">
+
 # Informações Gerais:
 O semestre na UFRN é divido em 3 partes. Na primeira parte é apresentado uma introdução à linguagem Python, a biblioteca ```math```, série de Taylor e métodos para determinar as raízes de uma determinada função. Na segunda parte, por sua vez, temos uma apresentação de sistemas lineares, MMQ & Interpolação - nessa parte é bastante utilizada a biblioteca ```numpy```. Na terçeira parte, é visto a parte referente às equações diferenciais.
 Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos que podem ser realizados para obtenção da nota terão seus códigos exemplificados também.
