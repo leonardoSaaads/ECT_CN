@@ -15,10 +15,6 @@ Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca `
 * [Segunda Unidade - Criptografia em LU]()
 * [Terceira Unidade - Equações Diferenciais com Aplicações]()
 
-## Informações Gerais:
-O semestre na UFRN é divido em 3 partes. Na primeira parte é apresentado uma introdução à linguagem Python, a biblioteca ```math```, série de Taylor e métodos para determinar as raízes de uma determinada função. Na segunda parte, por sua vez, temos uma apresentação de sistemas lineares, MMQ & Interpolação - nessa parte é bastante utilizada a biblioteca ```numpy```. Na terçeira parte, é visto a parte referente às equações diferenciais.
-Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos que podem ser realizados para obtenção da nota terão seus códigos exemplificados também.
-
 ## Observações:
 Para utilizar esse repositório, é recomendável utilizar:
 * Python version > 3.6
@@ -41,3 +37,16 @@ Utilize o comando abaixo para instalar a biblioteca [matplotlib](https://matplot
 python -m pip install -U matplotlib
 python -m pip install -U numpy
 ```
+
+## Contribuidores:
+* Leonardo Saads Pinto
+
+# Informações Gerais:
+O semestre na UFRN é divido em 3 partes. Na primeira parte é apresentado uma introdução à linguagem Python, a biblioteca ```math```, série de Taylor e métodos para determinar as raízes de uma determinada função. Na segunda parte, por sua vez, temos uma apresentação de sistemas lineares, MMQ & Interpolação - nessa parte é bastante utilizada a biblioteca ```numpy```. Na terçeira parte, é visto a parte referente às equações diferenciais.
+Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos que podem ser realizados para obtenção da nota terão seus códigos exemplificados também.
+
+## Primeira Parte
+
+## Segunda Parte
+
+## Terceira Parte
