@@ -39,7 +39,7 @@ python -m pip install -U numpy
 ```
 
 ## Contribuidores:
-* Leonardo Saads Pinto
+* [Leonardo Saads Pinto](https://github.com/leonardoSaaads)
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/69808278/100530830-dd911500-31d5-11eb-9e87-8dcd51f92082.png" width="228" height="228">
 
