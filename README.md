@@ -48,7 +48,8 @@ O semestre na UFRN é divido em 3 partes. Na primeira parte é apresentado uma i
 Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos que podem ser realizados para obtenção da nota terão seus códigos exemplificados também.
 
 ## Primeira Parte
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/bissec%C3%A7%C3%A3o.png" width="214" height="158">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/bissec%C3%A7%C3%A3o.png" width="428" height="319">
+
 ## Segunda Parte
 
 ## Terceira Parte
