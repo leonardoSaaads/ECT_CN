@@ -25,11 +25,12 @@ Para utilizar esse repositório, é recomendável utilizar:
 * Numpy version >= 1.19.0
 
 Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/), utilize os comandos abaixo:
-***Para Linux ou macOS:***
+
+**Para Linux ou macOS:**
 ```
 pip install -U pip
 ```
-***Para Windows:***
+**Para Windows:**
 ```
 python -m pip install -U pip
 ```
