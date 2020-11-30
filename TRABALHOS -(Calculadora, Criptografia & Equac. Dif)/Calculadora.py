@@ -169,3 +169,13 @@ class Calculadora:
             if num % 4 == 2:
                 soma += -math.cos(x0) * ((x - x0) ** num) / math.factorial(num)
         return soma
+    
+
+if __name__ == '__main__':
+    # Para chamar a função, utilize a classe Calculadora.
+
+    # Exemplo 1:
+    print(Calculadora.potencia(2, 3))
+
+    # Exemplo 2:
+    print(Calculadora.desv_padrao(59, 60, 63, 60, 58, 60, 60))
