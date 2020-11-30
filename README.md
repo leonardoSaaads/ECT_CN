@@ -50,7 +50,20 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 ## Primeira Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/bissec%C3%A7%C3%A3o.png" width="428" height="319">
 
+### Como utilizar - TRABALHO:
+
+### Como utilizar - FUNÇÕES:
+
 ## Segunda Parte
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
+
+### Como utilizar - TRABALHO:
+
+### Como utilizar - FUNÇÕES:
 
 ## Terceira Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/euler_method.png" width="428" height="319">
+
+### Como utilizar - TRABALHO:
+
+### Como utilizar - FUNÇÕES:
