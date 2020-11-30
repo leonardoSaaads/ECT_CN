@@ -1,5 +1,5 @@
 # COMPUTAÇÃO NÚMERICA (UFRN) - MÉTODOS NUMÉRICOS EM PYTHON 
-Esse repositório será dedicado à matéria de ***Computação Numérica da UFRN***. Todos os métodos foram feitos em **Python** e com base no semestre de 2020.2 da Escola de Ciências e Tecnologia.
+Esse repositório é dedicado à matéria de **Computação Numérica da UFRN**. Todos os métodos foram feitos em **Python** e com base no semestre de 2020.2 da Escola de Ciências e Tecnologia.
 
 ## Métodos Numéricos - Códigos:
 * [Aprendendo Python & série de Taylor]()
@@ -11,7 +11,7 @@ Esse repositório será dedicado à matéria de ***Computação Numérica da UFR
 Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca ```matplotlib```.
 
 ## Trabalhos para Submissão - Códigos & Instepretação:
-* [Primeira Unidade - Calculadora]()
+* [Primeira Unidade - Calculadora](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Calculadora.py)
 * [Segunda Unidade - Criptografia em LU]()
 * [Terceira Unidade - Equações Diferenciais com Aplicações]()
 
