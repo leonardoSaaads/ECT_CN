@@ -51,7 +51,7 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/bissec%C3%A7%C3%A3o.png" width="428" height="319">
 
 ### Como utilizar - TRABALHO:
-Foi definido a classe Calculadora no código em Python - link disponíl acima. Para utiliza-la, copie o código e faça a chamada de alguma função ou variável contida na classe.
+Foi definido a classe Calculadora no código em Python - link disponível acima. Para utiliza-la, copie o código e faça a chamada de alguma função ou variável contida na classe no mesmo arquivo copiado (É importante que seja no mesmo arquivo pois assim o python idenficará a propriedade `__name__ == "__main__"`).
 Exemplo:
 ```
 class Calculadora:...
