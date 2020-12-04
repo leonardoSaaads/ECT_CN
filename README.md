@@ -19,7 +19,7 @@ Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca `
 Para utilizar esse repositório, é recomendável utilizar:
 * Python version > 3.6
 * Numpy version > 1.19.1
-* Matplotlib version >= 3.3.3
+* Matplotlib version >= 3.3.1
 
 Primeiramente, utilize o comando abaixo para atualizar o [gerencimaneto de pacotes](https://pip.pypa.io/en/stable/installing/):
 
@@ -77,6 +77,7 @@ Vários aquirvos foram disponibilizados para serem baixados e Utilizados individ
 
 ## Segunda Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
+imagem disponível pela [wikipédia](https://pt.wikipedia.org/wiki/Sistema_de_equa%C3%A7%C3%B5es_lineares#/media/Ficheiro:Secretsharing_3-point.svg).
 
 ### Como utilizar - TRABALHO:
 
@@ -85,6 +86,10 @@ Vários aquirvos foram disponibilizados para serem baixados e Utilizados individ
 ## Terceira Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/euler_method.png" width="428" height="319">
 
-### Como utilizar - TRABALHO:
+### Como utilizar - TRABALHO(Sistema RLC - circuitos elétricos):
+<img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/RLC_series_circuit.png">
+Note que um circuito RLC pode ser modelado da seguinte maneira:
+
+### Como utilizar - TRABALHO(Canhão com atrito - balística):
 
 ### Como utilizar - FUNÇÕES:
