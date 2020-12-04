@@ -3,7 +3,7 @@ Esse repositório é dedicado à matéria de **Computação Numérica da UFRN**.
 
 ## Métodos Numéricos - Códigos:
 * [Aprendendo Python](https://github.com/leonardoSaaads/ECT_CN/blob/main/Aprendendo_Python_Basico)
-* [Série de Taylor, Bolzano, Bissecção, Falsa posição, Newton & Secante]()
+* [Série de Taylor, Bolzano, Bissecção, Falsa posição, Newton & Secante](https://github.com/leonardoSaaads/ECT_CN/tree/main/Primeira%20Parte)
 * [Eliminação Gauss, Decomposição LU, Jacobi Sistemas & Gauss-Seidel]()
 * [Métodos Mínimos Quadrados, Interpolação de Lagrange & Interpolação de Newton]()
 * [Interação, Regras de Simpson, Equações DIferenciais Ordinárias com Euler & Equações Diferenciais Odinárias com RK4]()
@@ -50,7 +50,7 @@ Todos os métodos serão vistos nesse diretório e, além disso, os trabalhos qu
 ## Primeira Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/bissec%C3%A7%C3%A3o.png" width="428" height="319">
 
-### Como utilizar - TRABALHO:
+### Como utilizar - TRABALHO(Calculadora):
 Foi definido a classe Calculadora no código em Python - link disponível acima. Para utiliza-la, copie o código e faça a chamada de alguma função ou variável contida na classe no mesmo arquivo copiado (É importante que seja no mesmo arquivo pois assim o python idenficará a propriedade `__name__ == "__main__"`).
 Exemplo:
 ```
@@ -72,7 +72,8 @@ print(somatorio(20, 30, 45, 50, 90))
 print(fatorial(13))
 ```
 
-### Como utilizar - FUNÇÕES:
+### Como utilizar - FUNÇÕES(Taylor, Raízes):
+Vários aquirvos foram disponibilizados para serem baixados e Utilizados individualmente.
 
 ## Segunda Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
