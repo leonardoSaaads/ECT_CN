@@ -89,7 +89,7 @@ imagem disponível pela [wikipédia](https://pt.wikipedia.org/wiki/Sistema_de_eq
 ### Como utilizar - TRABALHO(Sistema RLC - circuitos elétricos):
 <img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/RLC_series_circuit.png">
 Note que um circuito RLC pode ser modelado da seguinte maneira:
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/trabalho.png" width="428" height="477">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/trabalho.png" width="650" height="690">
 ### Como utilizar - TRABALHO(Canhão com atrito - balística):
 
 ### Como utilizar - FUNÇÕES:
