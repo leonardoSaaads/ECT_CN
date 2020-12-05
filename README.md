@@ -77,7 +77,7 @@ Vários aquirvos foram disponibilizados para serem baixados e Utilizados individ
 
 ## Segunda Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
-imagem disponível pela [wikipédia](https://pt.wikipedia.org/wiki/Sistema_de_equa%C3%A7%C3%B5es_lineares#/media/Ficheiro:Secretsharing_3-point.svg)
+imagem disponível pela wikipédia.
 
 ### Como utilizar - TRABALHO:
 
