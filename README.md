@@ -89,6 +89,7 @@ imagem disponível na wikipédia.
 ### Como utilizar - TRABALHO(Sistema RLC - circuitos elétricos):
 <img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/RLC_series_circuit.png">
 Imagem disponível na wikipédia
+
 Note que um circuito RLC pode ser modelado da seguinte maneira:
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/trabalho.png" width="650" height="690">
