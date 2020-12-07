@@ -77,7 +77,7 @@ Vários aquirvos foram disponibilizados para serem baixados e Utilizados individ
 
 ## Segunda Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
-imagem disponível pela wikipédia.
+imagem disponível na wikipédia.
 
 ### Como utilizar - TRABALHO:
 
@@ -88,11 +88,12 @@ imagem disponível pela wikipédia.
 
 ### Como utilizar - TRABALHO(Sistema RLC - circuitos elétricos):
 <img style="-webkit-user-select: none;margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/RLC_series_circuit.png">
+Imagem disponível na wikipédia
 Note que um circuito RLC pode ser modelado da seguinte maneira:
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/trabalho.png" width="650" height="690">
 
-clique [aqui]() para acessar o código desse trabalho.
+clique [aqui](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Trabalhos%20de%20EDO/EDO%20-%20Circuito%20RLC.py) para acessar o código desse trabalho.
 ### Como utilizar - TRABALHO(Canhão com atrito - balística):
 
 ### Como utilizar - FUNÇÕES:
