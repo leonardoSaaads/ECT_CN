@@ -51,26 +51,50 @@ class CircuitoRLC:
         raiz1, raiz2 = CircuitoRLC.lambdas(self)
 
         if raiz1 == raiz2:
-            # Necessário implementar condições iniciais
-            return lambda t: self.y_0*math.e**(raiz1*t) + t*math.e**(raiz2*t)
+            return lambda t: self.y_0*math.e**(raiz1*t) + (self.y1_0 - self.y_0*raiz1)*t*math.e**(raiz2*t)
         if raiz1 != raiz2 and type(raiz2) == float:
-            # Necessário implementar condições iniciais
-            return lambda t: math.e**(raiz1*t) + math.e**(raiz2*t)
+            coef_2 = (self.y1_0 - self.y_0 * raiz1) / (raiz2 - raiz1)
+            coef_1 = (self.y1_0 - self.y_0 * raiz2) / (raiz1 - raiz2)
+            return lambda t: coef_1*math.e**(raiz1*t) + coef_2*math.e**(raiz2*t)
         else:
-            # Necessário implementar condições iniciais
             return lambda t: self.y_0*math.e**(raiz1.real*t)*math.cos(raiz1.imag*t) + \
-                             math.e**(raiz2.real*t)*math.sin(raiz2.imag*t)
+                             ((self.y1_0+raiz2.real*self.y_0)/raiz2.imag)*math.e**(raiz2.real*t)*math.sin(raiz2.imag*t)
 
-    def grafico(self):
+    def aproximacao(self, h: float, final: float):
+        """
+        A aproximação de uma EDO com base no método de euler.
+        :return: vetor
+        """
+        # z'[n+1] = z[n] + h*w[i-1]
+        # w'[n+1] = w[n] + h*(1/LC*z[i-1] -R/C*w[i-1])
+        # y(0) = z(0) & y'(0) = w(0)
+        z = np.zeros(len(np.arange(0, final, h)))  # um vetor de zeros
+        w = np.zeros(len(np.arange(0, final, h)))  # um vetor de zeros
+        z[0] = self.y_0  # valor inicial
+        w[0] = self.y1_0  # valor incial
+        for i in range(1, int(final/h)):
+            z[i] = z[i-1] + h*w[i-1]
+            w[i] = w[i-1] + h*((-1/(self.ind*self.cap))*z[i-1] - (self.res/self.ind)*w[i-1])
+        return z, w
+
+    def grafico(self, largura: int):
         """
         implementa o gráfico
+        :largura: a largura do gráfico.
         :return: gráfico
         """
+        # Parte de vetores - Analítico
         funcao = CircuitoRLC.funcao(self)
-        x = np.linspace(0, 25, 120)
+        x = np.linspace(0, largura, 10000)
         y_x = [funcao(t) for t in x]
 
+        #parte de vetores - aproximações e euler
+        aproximacoes = CircuitoRLC.aproximacao(self, 0.8, largura)[0]   # DETERMINE AQUI A PRECISÃO DA APROXIMAÇÃO
+        x_aproc = np.linspace(0, largura, len(aproximacoes))
+
+        # Partes gráficas
         plt.plot(x, y_x, label='EDO analytical solution')
+        plt.plot(x_aproc, aproximacoes, label='Euler method aproximation')
         plt.xlabel('Tempo t')
         plt.ylabel('Carga Q(t)')
         plt.legend()
@@ -79,6 +103,12 @@ class CircuitoRLC:
 
 
 if __name__ == '__main__':
-    circuito_teste = CircuitoRLC(1, 5, 1, 10, 1)
+    r = float(input("Detemine o valor da Resisitencia: \n"))
+    ind = float(input("Detemine o valor da Indutância: \n"))
+    c = float(input("Detemine o valor do Capacitor: \n"))
+    y0 = float(input("determine as condições iniciais do Sistema - y(0): \n"))
+    y10 = float(input("determine as condições iniciais do Sistema - y'(0): \n"))
+    circuito_teste = CircuitoRLC(r, ind, c, y0, y10)
+    print('Raízes do polinômio caracterítico')
     print(circuito_teste.lambdas())
-    circuito_teste.grafico()
+    circuito_teste.grafico(35)
