@@ -13,7 +13,7 @@ Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca `
 ## Trabalhos para Submissão - Códigos & Instepretação:
 * [Primeira Unidade - Calculadora](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Calculadora.py)
 * [Segunda Unidade - Criptografia em LU]()
-* [Terceira Unidade - Equações Diferenciais com Aplicações]()
+* [Terceira Unidade - Equações Diferenciais com Aplicações](https://github.com/leonardoSaaads/ECT_CN/tree/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Trabalhos%20de%20EDO)
 
 ## Observações:
 Para utilizar esse repositório, é recomendável utilizar:
