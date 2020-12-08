@@ -88,8 +88,8 @@ class CircuitoRLC:
         x = np.linspace(0, largura, 10000)
         y_x = [funcao(t) for t in x]
 
-        #parte de vetores - aproximações e euler
-        aproximacoes = CircuitoRLC.aproximacao(self, 0.8, largura)[0]   # DETERMINE AQUI A PRECISÃO DA APROXIMAÇÃO
+        # Parte de vetores - aproximações e euler
+        aproximacoes = CircuitoRLC.aproximacao(self, 0.05, largura)[0]   # DETERMINE AQUI A PRECISÃO DA APROXIMAÇÃO
         x_aproc = np.linspace(0, largura, len(aproximacoes))
 
         # Partes gráficas
