@@ -102,5 +102,5 @@ Note que o oscilador pode ser modelado da seguinte maneira:
 
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://raw.githubusercontent.com/leonardoSaaads/ECT_CN/main/imagens/trabalho2.png" width="650" height="330">
 
-A partir disso, é possível achar uma solução analítica - EDO homogênea, linear e de coeficientes constantes - e também uma solução aproximada - através do métodos de Euler. Clique [aqui]() para acessar o código desse trabalho.
+A partir disso, é possível achar uma solução analítica - EDO homogênea, linear e de coeficientes constantes - e também uma solução aproximada - através do métodos de Euler. Clique [aqui](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Trabalhos%20de%20EDO/EDO%20-%20Oscilador%20Harm%C3%B4nico.py) para acessar o código desse trabalho.
 ### Como utilizar - FUNÇÕES:
