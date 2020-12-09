@@ -96,7 +96,7 @@ Note que um circuito RLC pode ser modelado da seguinte maneira:
 
 A partir disso, é possível achar uma solução analítica - EDO homogênea, linear e de coeficientes constantes - e também uma solução aproximada - através do métodos de Euler. Clique [aqui](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Trabalhos%20de%20EDO/EDO%20-%20Circuito%20RLC.py) para acessar o código desse trabalho.
 ### Como utilizar - TRABALHO(Oscilador Harmônico Amortecido - Leis de Newton):
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.stack.imgur.com/40aXo.png" width="650" height="690">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://i.stack.imgur.com/40aXo.png" width="650" height="310">
 
 Note que o oscilador pode ser modelado da seguinte maneira:
 
