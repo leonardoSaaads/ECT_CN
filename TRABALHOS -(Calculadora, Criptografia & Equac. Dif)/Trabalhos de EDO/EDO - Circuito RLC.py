@@ -1,3 +1,4 @@
+# Made by Leonardo Saads 
 import matplotlib.pyplot as plt
 import math
 import numpy as np
@@ -85,10 +86,10 @@ class CircuitoRLC:
         """
         # Parte de vetores - Analítico
         funcao = CircuitoRLC.funcao(self)
-        x = np.linspace(0, largura, 10000)
+        x = np.linspace(0, largura, 10000)  # PARTIÇÃO PADRÃO DE 10000
         y_x = [funcao(t) for t in x]
 
-        # Parte de vetores - aproximações e euler
+        # Parte de vetores - aproximações de euler
         aproximacoes = CircuitoRLC.aproximacao(self, 0.05, largura)[0]   # DETERMINE AQUI A PRECISÃO DA APROXIMAÇÃO
         x_aproc = np.linspace(0, largura, len(aproximacoes))
 
