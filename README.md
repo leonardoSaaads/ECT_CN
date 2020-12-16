@@ -6,7 +6,7 @@ Esse repositório é dedicado à matéria de **Computação Numérica da UFRN**.
 * [Série de Taylor, Bolzano, Bissecção, Falsa posição, Newton & Secante](https://github.com/leonardoSaaads/ECT_CN/tree/main/Primeira%20Parte)
 * [Eliminação Gauss, Decomposição LU, Jacobi Sistemas & Gauss-Seidel]()
 * [Métodos Mínimos Quadrados, Interpolação de Lagrange & Interpolação de Newton]()
-* [Interação, Regras de Simpson, Equações DIferenciais Ordinárias com Euler & Equações Diferenciais Odinárias com RK4]()
+* [Interação, Regras de Simpson, Equações DIferenciais Ordinárias com Euler & Equações Diferenciais Odinárias com RK4](https://github.com/leonardoSaaads/ECT_CN/tree/main/Terceira%20Parte)
 
 Para a visualização dessa biblioteca, é recomendável utilizar a biblioteca ```matplotlib```.
 
