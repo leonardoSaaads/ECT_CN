@@ -11,6 +11,7 @@ def g(x):
 def secante(f, x0, x1, erro, itmax):
     # Retornará a raíz, o erro e as iterações.
     # Código feito com base no canal do Professor REX.
+    # Disponível em: https://www.youtube.com/c/RexMedeirosUFRN
 
     it = 0
     er = 10**4
