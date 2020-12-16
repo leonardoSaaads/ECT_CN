@@ -11,6 +11,7 @@ def g(x):
 def bisseccao(f, a, b, erro, iteracoes):
     # Retornará a raíz, o erro e as iterações.
     # Código feito com base no canal do Professor REX.
+    # Disponível em: https://www.youtube.com/c/RexMedeirosUFRN
 
     it = 0
     x = b
