@@ -1,3 +1,4 @@
+# made by Leonardo Saads
 import matplotlib.pyplot as plt
 import math
 import numpy as np
@@ -117,6 +118,7 @@ class Oscilador:
         plt.show()
 
 
+# exemplo de chamada da função
 if __name__ == '__main__':
     mass = float(input("Detemine o valor da Massa: \n"))
     uconst = float(input("Detemine o valor da U: \n"))
