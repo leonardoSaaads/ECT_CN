@@ -103,6 +103,7 @@ class CircuitoRLC:
         plt.show()
 
 
+# exemplo de chamada da classe.
 if __name__ == '__main__':
     r = float(input("Detemine o valor da Resisitencia: \n"))
     ind = float(input("Detemine o valor da Indutância: \n"))
