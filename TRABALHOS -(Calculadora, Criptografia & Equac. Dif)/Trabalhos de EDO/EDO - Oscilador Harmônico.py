@@ -118,7 +118,7 @@ class Oscilador:
         plt.show()
 
 
-# exemplo de chamada da função
+# exemplo de chamada da classe
 if __name__ == '__main__':
     mass = float(input("Detemine o valor da Massa: \n"))
     uconst = float(input("Detemine o valor da U: \n"))
