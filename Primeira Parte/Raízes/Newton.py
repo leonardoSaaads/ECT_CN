@@ -28,7 +28,7 @@ def newton(f, df, x0, erro, itmax):
         it += 1
     return f'raíz: {x}, Erro: {er}, Iterações: {it}'
 
+
 # Exemplo de chamada da função abaixo:
-
-
-print(newton(g, dg, 0.8, 0.00001, 10))
+if __name__ == '__main__':
+    print(newton(g, dg, 0.8, 0.00001, 10))
