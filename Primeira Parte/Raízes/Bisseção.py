@@ -29,7 +29,7 @@ def bisseccao(f, a, b, erro, iteracoes):
         it += 1
     return f'raíz: {x}, Erro: {er}, Iterações: {it}'
 
+
 # Exemplo de chamada da função abaixo:
-
-
-print(bisseccao(g, 0.05, 10, 0.00001, 50))
+if __name__ == '__main__':
+    print(bisseccao(g, 0.05, 10, 0.00001, 50))
