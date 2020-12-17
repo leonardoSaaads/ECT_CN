@@ -29,7 +29,7 @@ def falsaposicao(f, a, b, erro, iteracoes):
         it += 1
     return f'raíz: {x}, Erro: {er}, Iterações: {it}'
 
+
 # Exemplo de chamada da função abaixo:
-
-
-print(falsaposicao(g, 0.1, 10, 0.0001, 30))
+if __name__ == '__main__':
+    print(falsaposicao(g, 0.1, 10, 0.0001, 30))
