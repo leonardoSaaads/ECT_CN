@@ -73,7 +73,7 @@ print(fatorial(13))
 ```
 
 ### Como utilizar - FUNÇÕES(Taylor, Raízes):
-Vários aquirvos foram disponibilizados para serem baixados e Utilizados individualmente.
+Vários aquirvos foram disponibilizados para serem baixados e utilizados individualmente.
 
 ## Segunda Parte
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/800px-Secretsharing_3-point.svg.png" width="428" height="319">
@@ -104,3 +104,4 @@ Note que o oscilador pode ser modelado da seguinte maneira:
 
 A partir disso, é possível achar uma solução analítica - EDO homogênea, linear e de coeficientes constantes - e também uma solução aproximada - através do métodos de Euler. Clique [aqui](https://github.com/leonardoSaaads/ECT_CN/blob/main/TRABALHOS%20-(Calculadora%2C%20Criptografia%20%26%20Equac.%20Dif)/Trabalhos%20de%20EDO/EDO%20-%20Oscilador%20Harm%C3%B4nico.py) para acessar o código desse trabalho.
 ### Como utilizar - FUNÇÕES:
+Vários aquirvos foram disponibilizados para serem baixados e utilizados individualmente.
