@@ -2,7 +2,7 @@
 Esse repositório é dedicado à matéria de **Computação Numérica da UFRN**. Todos os métodos foram feitos em **Python** e com base no semestre de 2020.2 da Escola de Ciências e Tecnologia.
 
 ## Métodos Numéricos - Códigos:
-* [Aprendendo Python](https://github.com/leonardoSaaads/ECT_CN/blob/main/Aprendendo_Python_Basico)
+* [Aprendendo Python](https://github.com/leonardoSaaads/ECT_COMPUTACAO_NUMERICA/blob/main/aprender.ipynb)
 * [Série de Taylor, Bolzano, Bissecção, Falsa posição, Newton & Secante](https://github.com/leonardoSaaads/ECT_CN/tree/main/Primeira%20Parte)
 * [Eliminação Gauss, Decomposição LU, Jacobi Sistemas & Gauss-Seidel]()
 * [Métodos Mínimos Quadrados, Interpolação de Lagrange & Interpolação de Newton]()
